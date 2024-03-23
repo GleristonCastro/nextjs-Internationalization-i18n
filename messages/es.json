@@ -1,0 +1,9 @@
+{
+  "Index": {
+    "title": "¡Hola mundo!"
+  },
+  "NotFoundPage": {
+    "title": "Página no encontrada",
+    "description": "¡Ups! Parece que te has topado con una página que no existe."
+  }
+}
