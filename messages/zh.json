@@ -1,0 +1,9 @@
+{
+  "Index": {
+    "title": "你好世界！"
+  },
+  "NotFoundPage": {
+    "title": "找不到网页",
+    "description": "哎呀！您似乎偶然发现了一个不存在的页面"
+  }
+}
